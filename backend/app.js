@@ -16,7 +16,7 @@ app.use(express.json());
 // Ensure frontend can connect in production without CORS errors
 const corsOptions = {
     origin: process.env.NODE_ENV === 'production' 
-        ? ['https://your-vercel-frontend-url.vercel.app'] // Replace with actual vercel domain
+        ? ['https://book-my-show-project-puce.vercel.app'] // Replace with actual vercel domain
         : 'http://localhost:3000', // Local React dev server
     optionsSuccessStatus: 200
 };
