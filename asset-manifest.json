@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookMyShowFSD/static/css/main.3d1e57d3.css",
+    "main.js": "/BookMyShowFSD/static/js/main.41656fa0.js",
+    "index.html": "/BookMyShowFSD/index.html",
+    "main.3d1e57d3.css.map": "/BookMyShowFSD/static/css/main.3d1e57d3.css.map",
+    "main.41656fa0.js.map": "/BookMyShowFSD/static/js/main.41656fa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1e57d3.css",
+    "static/js/main.41656fa0.js"
+  ]
+}
